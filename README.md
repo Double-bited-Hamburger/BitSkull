@@ -22,7 +22,7 @@ Optional URL flags: `?demo` loads the demo image, and `?demo&preset=Neon%20Glow`
   - Mono: maps luminance onto the palette, with luma cycles
   - Palette: nearest colour, using weighted RGB or OKLab
   - RGB: per-channel levels
-- **Palettes:** 47 built-in, editable swatches with locks, shuffle, extract-from-image, and import/export (.gpl, .hex, .json).
+- **Palettes:** 46 built-in, editable swatches with locks, shuffle, extract-from-image, and import/export (.gpl, .hex, .json).
 - **Adjustments:** 16 controls, each with a lock so Randomize skips it.
 - **Effect stacks:** 14 distortions before dithering, including Temporal Variation with 9 animated patterns, and 13 effects after dithering, including glow, chromatic aberration, JPEG glitch and CRT.
 - **Animation timeline:** keyframe layers (from → to, ease, ping-pong or repeat) on any slider. Plays still images, GIFs, image sequences and video.
